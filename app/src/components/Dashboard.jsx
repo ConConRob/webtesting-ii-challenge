@@ -1,6 +1,4 @@
-import React, { useState } from "react";
-
-import Display from "./Display";
+import React from "react";
 
 export default function Container() {
   return (
